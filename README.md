@@ -34,3 +34,7 @@ Os exercícios estão divididos em três listas:
 - Java 17+
 - IntelliJ IDEA (recomendado)
 - Console para entrada e saída padrão
+
+## 🎓 Certificado
+![Captura de tela de 2025-06-25 15-51-37](https://github.com/user-attachments/assets/78263e5c-17a1-4442-9f6d-027093f1ef39)
+
